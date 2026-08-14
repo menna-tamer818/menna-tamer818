@@ -1,4 +1,4 @@
-# Hi there, I'm Mennatullah Tamer! 👋 
+# Hi there, I'm Mennatullah Tamer! 👋
 
 ### 🧬 Biotechnology Student | 🤖 Robotics Mentor | 🐍 Python Developer
 
@@ -7,39 +7,39 @@ I am a highly motivated Biotechnology undergraduate at **Alexandria University**
 ---
 
 ### 🚀 What I Do
-*   **Teaching & Mentoring:** Software Instructor at **Vortex Robotics Academy**, where I guide students through Python OOP, Game Dev (Pygame), and Autonomous Robotics.
-*   **Robotics & IoT:** Designing and calibrating advanced systems like **Holonomic Cars (HOONC)**, **Line Followers**, and **Smart Home IoT systems**.
-*   **Biotech Enthusiast:** Exploring how software engineering and data logic can revolutionize biological research.
+* **Teaching & Mentoring:** Software Instructor at **Vortex Robotics Academy**, where I guide students through Python OOP, Game Dev (Pygame), and Autonomous Robotics.
+* **Robotics & IoT:** Designing and calibrating advanced systems like **Holonomic Cars (HOONC)**, **Line Followers**, and **Smart Home IoT systems**.
+* **Biotech Enthusiast:** Exploring how software engineering and data logic can revolutionize biological research.
 
 ---
 
 ### 🛠️ Skills & Technologies
 
-*   **Programming:** `Python (OOP Expert)`, `C++`, `Logic Gate Circuits`.
-*   **Embedded Systems:** `Arduino`, `Micro:bit`, `ESP`, `Raspberry Pi`, `IR Sensor Integration`.
-*   **Software & Tools:** `Advanced Excel`, `Google Sheets`, `IoT Cloud Platforms`, `Git/GitHub`.
-*   **Methodologies:** "The Faulty Circuit" Hardware Debugging, CRUD Operations, Multi-directional Movement Algorithms.
+* **Programming:** `Python (OOP Expert)`, `C++`, `Logic Gate Circuits`.
+* **Embedded Systems:** `Arduino`, `Micro:bit`, `ESP`, `Raspberry Pi`, `IR Sensor Integration`.
+* **Software & Tools:** `Advanced Excel`, `Google Sheets`, `IoT Cloud Platforms`, `Git/GitHub`.
+* **Methodologies:** "The Faulty Circuit" Hardware Debugging, CRUD Operations, Multi-directional Movement Algorithms.
 
 ---
 
 ### ⚓ Robotics & Aerospace Competitions
 * **Control Software Engineer** | MATE ROV Team Titans 🌊 *(Developing thruster control algorithms, PyMAVLink telemetry & GUI integration)*
-* **Electrical & Avionics Sub-team** | Lycans UAV Team (AIAA DBF) ✈️ *(Flight control systems, sensor calibration & power distribution)
+* **Electrical & Avionics Sub-team** | Lycans UAV Team (AIAA DBF) ✈️ *(Flight control systems, sensor calibration & power distribution)*
 
 ---
 
 ### 📈 Current Focus
-*   🎓 Completing my B.Sc. in **Biotechnology** (Class of 2028).
-*   🐍 **Python Development Intern** at Codveda Technologies (May 2026 - June 2026).
-*   🌟 Expanding my knowledge in AI applications within the Biotech field.
+* 🎓 Completing my B.Sc. in **Biotechnology** (Class of 2028).
+* 🐍 **Python Development Intern** at Codveda Technologies (May 2026 - June 2026).
+* 🌟 Expanding my knowledge in AI applications within the Biotech field.
 
 ---
 
 ### 🤝 Let's Connect!
-*   **LinkedIn:** [linkedin.com/in/menna-tamer-5a087a389](https://linkedin.com/in/menna-tamer-5a087a389)
-*   **Email:** [mennatamer1910@gmail.com](mailto:mennatamer1910@gmail.com)
-*   **Location:** Alexandria, Egypt 🇪🇬
+* **LinkedIn:** [linkedin.com/in/menna-tamer-5a087a389](https://linkedin.com/in/menna-tamer-5a087a389)
+* **Email:** [mennatamer1910@gmail.com](mailto:mennatamer1910@gmail.com)
+* **Location:** Alexandria, Egypt 🇪🇬
 
 ---
 
-*"Success is not just about writing code; it's about engineering solutions that make a difference."*
+> *"Success is not just about writing code; it's about engineering solutions that make a difference."*
