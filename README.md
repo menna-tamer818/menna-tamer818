@@ -22,6 +22,12 @@ I am a highly motivated Biotechnology undergraduate at **Alexandria University**
 
 ---
 
+### ⚓ Robotics & Aerospace Competitions
+* **Control Software Engineer** | MATE ROV Team Titans 🌊 *(Developing thruster control algorithms, PyMAVLink telemetry & GUI integration)*
+* **Electrical & Avionics Sub-team** | Lycans UAV Team (AIAA DBF) ✈️ *(Flight control systems, sensor calibration & power distribution)
+
+---
+
 ### 📈 Current Focus
 *   🎓 Completing my B.Sc. in **Biotechnology** (Class of 2028).
 *   🐍 **Python Development Intern** at Codveda Technologies (May 2026 - June 2026).
